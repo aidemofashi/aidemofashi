@@ -1,8 +1,3 @@
----
-title: About Aidemofashi
-date: 2026-02-06 14:36:41
-lazyload: false
----
 ## Here is *Aidemofashi*.
 
 📙 Year 2024 student at university  
